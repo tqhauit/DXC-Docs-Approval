@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>please_specify</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-19 08:17:33</sys_created_on>
+        <sys_id>4d6fee434f53130028a3b8de9310c7bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_specify</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_4d6fee434f53130028a3b8de9310c7bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-19 08:17:33</sys_updated_on>
+        <table>x_230144_dxcapp_approval_request</table>
+        <ui_policy display_value="Hide Please Specify on Load">fc3fa6434f53130028a3b8de9310c786</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

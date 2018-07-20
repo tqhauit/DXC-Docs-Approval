@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_action_role">
+    <sys_ui_action_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-15 14:49:52</sys_created_on>
+        <sys_id>34e26bf14fdb530028a3b8de9310c7b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline.x_230144_dxcapp.DXC Admin</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_ui_action display_value="Decline">09dff2bb4fc7130028a3b8de9310c78d</sys_ui_action>
+        <sys_update_name>sys_ui_action_role_34e26bf14fdb530028a3b8de9310c7b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-15 14:49:52</sys_updated_on>
+        <sys_user_role display_value="x_230144_dxcapp.DXC Admin" name="x_230144_dxcapp.DXC Admin">082b261c4f83130028a3b8de9310c7ca</sys_user_role>
+    </sys_ui_action_role>
+</record_update>

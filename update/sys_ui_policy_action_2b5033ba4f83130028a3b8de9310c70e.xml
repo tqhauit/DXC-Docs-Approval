@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>number</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-06 08:07:00</sys_created_on>
+        <sys_id>2b5033ba4f83130028a3b8de9310c70e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_2b5033ba4f83130028a3b8de9310c70e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-06 08:07:00</sys_updated_on>
+        <table>x_230144_dxcapp_approval_request</table>
+        <ui_policy display_value="Set ReadOnly Number">a510f77a4f83130028a3b8de9310c77c</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

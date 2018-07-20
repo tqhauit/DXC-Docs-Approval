@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="DXC Docs Approval">6ba96ad84f83130028a3b8de9310c78a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_230144_dxcapp_approval_request">state=WaitingPMApprover^ORstate=WaitingLeader^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="WaitingPMApprover"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="WaitingLeader"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DXC Requests for Approval</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_230144_dxcapp_approval_request</name>
+        <order>340</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_230144_dxcapp.DXC Leader,x_230144_dxcapp.DXC PM</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-03 04:44:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c125e3714f43130028a3b8de9310c7e5</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>DXC Requests for Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_app_module_c125e3714f43130028a3b8de9310c7e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 08:06:55</sys_updated_on>
+        <timeline_page/>
+        <title>DXC Requests for Approval</title>
+        <uncancelable>false</uncancelable>
+        <view_name>DXCApprovalView</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

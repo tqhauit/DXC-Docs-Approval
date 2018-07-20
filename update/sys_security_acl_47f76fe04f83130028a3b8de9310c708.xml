@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_230144_dxcapp_approval_request">state=Approved^ORstate=WaitingLeader^ORstate=WaitingPMApprover^ORstate=Draft^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="Approved"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="WaitingLeader"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="WaitingPMApprover"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="=" or="true" value="Draft"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Default access control on x_230144_dxcapp_approval_request</description>
+        <name>x_230144_dxcapp_approval_request</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-29 07:43:52</sys_created_on>
+        <sys_id>47f76fe04f83130028a3b8de9310c708</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>x_230144_dxcapp_approval_request</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_security_acl_47f76fe04f83130028a3b8de9310c708</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-16 04:20:33</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

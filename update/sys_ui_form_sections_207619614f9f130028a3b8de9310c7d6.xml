@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="207619614f9f130028a3b8de9310c7d6" sys_domain="global" table="x_230144_dxcapp_approval_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 07:24:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0fc9593a4f5bd30028a3b8de9310c746</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_230144_dxcapp_approval_request" name="x_230144_dxcapp_approval_request" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">207619614f9f130028a3b8de9310c7d6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_230144_dxcapp_approval_request" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">4fc9d53a4f5bd30028a3b8de9310c7bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 07:24:41</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-14 09:57:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a07619614f9f130028a3b8de9310c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_230144_dxcapp_approval_request" name="x_230144_dxcapp_approval_request" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">207619614f9f130028a3b8de9310c7d6</sys_ui_form>
+            <sys_ui_section caption="Comments" display_value="Comments" name="x_230144_dxcapp_approval_request" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">ec7619614f9f130028a3b8de9310c7d4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-14 09:57:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_230144_dxcapp_approval_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-14 09:57:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>207619614f9f130028a3b8de9310c7d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_230144_dxcapp_approval_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_207619614f9f130028a3b8de9310c7d6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-14 09:57:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="DXCView" name="DXCView">dee29bb54f03130028a3b8de9310c748</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

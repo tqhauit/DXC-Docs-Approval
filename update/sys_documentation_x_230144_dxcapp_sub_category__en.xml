@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Sub Category" language="en" table="x_230144_dxcapp_sub_category">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sub Category</label>
+            <language>en</language>
+            <name>x_230144_dxcapp_sub_category</name>
+            <plural>Sub Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-29 04:14:33</sys_created_on>
+            <sys_id>7818be684f03130028a3b8de9310c709</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sub Category</sys_name>
+            <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+            <sys_update_name>sys_documentation_x_230144_dxcapp_sub_category__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-29 04:14:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

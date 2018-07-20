@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_230144_dxcapp.DXC_CreateNewRequest_Decline</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>DXC_CreateNewRequest_Decline</name>
+        <script><![CDATA[var DXC_CreateNewRequest_Decline = Class.create();
+DXC_CreateNewRequest_Decline.prototype = {
+    initialize: function() {
+    },
+	
+	decline:function(sysIdRequest,approver){
+		var sys_approval_approverRecord = new GlideRecord('sysapproval_approver');
+		sys_approval_approverRecord.addQuery('document_id',sysIdRequest);
+		sys_approval_approverRecord.addQuery('approver',approver);
+		sys_approval_approverRecord.query();
+		
+		while(sys_approval_approverRecord.next()){
+			sys_approval_approverRecord.state = 'rejected';
+			sys_approval_approverRecord.update();
+			return ;
+		}
+	},
+
+    type: 'DXC_CreateNewRequest_Decline'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 09:44:58</sys_created_on>
+        <sys_id>01ffa0264fdf930028a3b8de9310c773</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DXC_CreateNewRequest_Decline</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_script_include_01ffa0264fdf930028a3b8de9310c773</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 09:44:58</sys_updated_on>
+    </sys_script_include>
+</record_update>
