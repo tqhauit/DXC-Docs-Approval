@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_230144_dxcapp_approval_request" version="2" view="DXCView">
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_230144_dxcapp_approval_request" version="2" view="DXCApprovalView">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">0385c7db4f53130028a3b8de9310c7ec</list_id>
+            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="e9039bb54f03130028a3b8de9310c7ad">b1d5c71f4f53130028a3b8de9310c788</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
-            <sys_id>0f85c7db4f53130028a3b8de9310c7ec</sys_id>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
+            <sys_id>39d5c71f4f53130028a3b8de9310c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">0385c7db4f53130028a3b8de9310c7ec</list_id>
+            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="e9039bb54f03130028a3b8de9310c7ad">b1d5c71f4f53130028a3b8de9310c788</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
-            <sys_id>c385c7db4f53130028a3b8de9310c7ed</sys_id>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
+            <sys_id>b9d5c71f4f53130028a3b8de9310c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">0385c7db4f53130028a3b8de9310c7ec</list_id>
+            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="e9039bb54f03130028a3b8de9310c7ad">b1d5c71f4f53130028a3b8de9310c788</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
-            <sys_id>4785c7db4f53130028a3b8de9310c7ed</sys_id>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
+            <sys_id>3dd5c71f4f53130028a3b8de9310c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>next_approver</element>
-            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">0385c7db4f53130028a3b8de9310c7ec</list_id>
+            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="e9039bb54f03130028a3b8de9310c7ad">b1d5c71f4f53130028a3b8de9310c788</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
-            <sys_id>c785c7db4f53130028a3b8de9310c7ed</sys_id>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
+            <sys_id>bdd5c71f4f53130028a3b8de9310c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>stage</element>
-            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="dee29bb54f03130028a3b8de9310c748">0385c7db4f53130028a3b8de9310c7ec</list_id>
+            <list_id display_value="x_230144_dxcapp_approval_request" element="NULL" name="x_230144_dxcapp_approval_request" parent="NULL" relationship="NULL" sys_domain="global" view="e9039bb54f03130028a3b8de9310c7ad">b1d5c71f4f53130028a3b8de9310c788</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
-            <sys_id>4f85071f4f53130028a3b8de9310c72b</sys_id>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
+            <sys_id>31d5c71f4f53130028a3b8de9310c789</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -88,20 +88,20 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-20 04:32:25</sys_created_on>
+            <sys_created_on>2018-07-20 04:33:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0385c7db4f53130028a3b8de9310c7ec</sys_id>
+            <sys_id>b1d5c71f4f53130028a3b8de9310c788</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_230144_dxcapp_approval_request</sys_name>
             <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
             <sys_policy/>
             <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
-            <sys_update_name>sys_ui_list_x_230144_dxcapp_approval_request_DXCView</sys_update_name>
+            <sys_update_name>sys_ui_list_x_230144_dxcapp_approval_request_DXCApprovalView</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-20 04:32:25</sys_updated_on>
+            <sys_updated_on>2018-07-20 04:33:42</sys_updated_on>
             <sys_user/>
-            <view display_value="DXCView" name="DXCView">dee29bb54f03130028a3b8de9310c748</view>
+            <view display_value="DXCApprovalView" name="DXCApprovalView">e9039bb54f03130028a3b8de9310c7ad</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
