@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_230144_dxcapp_dxc.DXC Admin" name="x_230144_dxcapp_dxc.DXC Admin">b3a96ad84f83130028a3b8de9310c78d</contains>
+        <role display_value="x_230144_dxcapp.DXC Employee" name="x_230144_dxcapp.DXC Employee">7728aa604f03130028a3b8de9310c70b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-20 04:49:01</sys_created_on>
+        <sys_id>c259879f4f53130028a3b8de9310c717</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_230144_dxcapp_dxc.DXC Admin.x_230144_dxcapp.DXC Employee</sys_name>
+        <sys_package display_value="DXC Docs Approval" source="x_230144_dxcapp">efa9a2d84f83130028a3b8de9310c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DXC Docs Approval">efa9a2d84f83130028a3b8de9310c7f2</sys_scope>
+        <sys_update_name>sys_user_role_contains_c259879f4f53130028a3b8de9310c717</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-20 04:49:01</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
